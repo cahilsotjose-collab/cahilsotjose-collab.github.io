@@ -14,23 +14,21 @@ Salesforce Developer at Accenture: I configured Salesforce objects, flows, and n
 
 ## **Skills & Tools**
 
-Salesforce CRM: Custom objects, flows, CPQ, Health Cloud
-QA Testing Tools: JIRA, TestRail, Regression Suites
-Programming: Apex, LWC, Python, DataWeave, Django
-Automation: Playwright, Selenium
-Integration: MuleSoft, REST APIs
-Certifications: Salesforce Certified OmniStudio Developer, Salesforce Certified AI Associate, nCino Functional Configuration
+Salesforce CRM: Custom objects, flows, CPQ, Health Cloud  
+QA Testing Tools: JIRA, TestRail, Regression Suites  
+Programming: Apex, LWC, Python, DataWeave, Django  
+Automation: Playwright, Selenium  
+Integration: MuleSoft, REST APIs  
+Certifications: Salesforce Certified OmniStudio Developer, Salesforce Certified AI Associate, nCino Functional Configuration  
 
 
 ## **Notable Projects**
 
 I’ve worked on various projects, from automating testing flows to developing custom Salesforce apps. Here are a few highlights:
 
-Salesforce Apartment Rental App: I developed a custom Salesforce app for managing apartment listings, leases, and tenants, integrating flows to automate data entry and rental process workflows.
-
-QA Regression Suite: I created a comprehensive regression test suite for multiple environments, ensuring that all Salesforce deployments maintain high quality and performance standards.
-
-Playwright Automation Demo: I’m currently working on automating Salesforce workflows using Python and Playwright for more efficient regression testing.
+Salesforce Apartment Rental App: I developed a custom Salesforce app for managing apartment listings, leases, and tenants, integrating flows to automate data entry and rental process workflows.  
+QA Regression Suite: I created a comprehensive regression test suite for multiple environments, ensuring that all Salesforce deployments maintain high quality and performance standards.  
+Playwright Automation Demo: I’m currently working on automating Salesforce workflows using Python and Playwright for more efficient regression testing.  
 
 
 ## **Education**
