@@ -16,7 +16,7 @@ Salesforce Developer at Accenture: I configured Salesforce objects, flows, and n
 
 Salesforce CRM: Custom objects, flows, CPQ, Health Cloud  
 QA Testing Tools: JIRA, TestRail, Regression Suites  
-Programming: Apex, LWC, Python, DataWeave, Django  
+Programming: Apex, LWC, Python, DataWeave, Django, Web development  
 Automation: Playwright, Selenium  
 Integration: MuleSoft, REST APIs  
 Certifications: Salesforce Certified OmniStudio Developer, Salesforce Certified AI Associate, nCino Functional Configuration  
