@@ -22,7 +22,7 @@ Integration: MuleSoft, REST APIs
 Certifications: Salesforce Certified OmniStudio Developer, Salesforce Certified AI Associate, nCino Functional Configuration
 
 
-##**Notable Projects**
+## **Notable Projects**
 
 I’ve worked on various projects, from automating testing flows to developing custom Salesforce apps. Here are a few highlights:
 
