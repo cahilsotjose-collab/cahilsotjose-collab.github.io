@@ -5,10 +5,12 @@ Welcome to my portfolio! I'm a Salesforce QA professional with a strong backgrou
 About Me
 I have over 2 years of experience in the tech industry, where I’ve had the opportunity to work across various domains, including e-commerce, fintech, and ISP industries. My journey began in software testing, where I gained hands-on experience with tools like JIRA, TestRail, and Salesforce. As a Salesforce QA Analyst/Developer, I’ve contributed to configuring custom objects, automating business processes, and creating regression test suites for multiple environments.
 
+
 Professional Experience
 QA Testing at Accenture: As a QA Lead, I managed cross-functional teams and streamlined the QA process, improving release efficiency by over 50%. I created detailed test documentation, including pre-created test cases, and led the regression testing efforts for various environments.
 
 Salesforce Developer at Accenture: I configured Salesforce objects, flows, and nCino Commercial Loan solutions to automate key business processes. I also resolved production issues and supported the development team in delivering high-quality Salesforce solutions.
+
 
 Skills & Tools
 
@@ -18,6 +20,7 @@ Programming: Apex, LWC, Python, DataWeave, Django
 Automation: Playwright, Selenium
 Integration: MuleSoft, REST APIs
 Certifications: Salesforce Certified OmniStudio Developer, Salesforce Certified AI Associate, nCino Functional Configuration
+
 
 Notable Projects
 
@@ -29,11 +32,13 @@ QA Regression Suite: I created a comprehensive regression test suite for multipl
 
 Playwright Automation Demo: I’m currently working on automating Salesforce workflows using Python and Playwright for more efficient regression testing.
 
+
 Education
 
 BS in Mechanical Engineering – University of San Carlos, Cebu, Philippines
 
 Coursework included Python, Data Structures, and Algorithms.
+
 
 Goals & Future Aspirations
 
